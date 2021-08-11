@@ -24,6 +24,8 @@ Un número entero que representa la cantidad de pisos del rascacielos de la cons
 
 En la primera línea tres números enteros separados por espacio que representan el número de pisos de los rascacielos de las constructoras separadas por un solo espacio. En la segunda línea se debe indicar en qué grupo se encuentra el rascacielos construido por la constructora “bloque” escrita en letras minúsculas.
 
+**Ejemplo:**
+
 | ENTRADA      | SALIDA |
 |:---------:|:-----:|
 | 72  | 72 148 44 |
