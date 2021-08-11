@@ -29,7 +29,7 @@ public class Reto1 {
         System.out.println(fase);
         
     }
-    //Main
+    //Main o Función Principal
     public static void main(String[] args) {
         Scanner consola = new Scanner(System.in);
         int pisos = consola.nextInt();
