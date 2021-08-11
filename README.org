@@ -29,4 +29,5 @@ En la primera línea tres números enteros separados por espacio que representan
 | 72  | 72 148 44 |
 |      |  tres  |
 
-
+**Solución:**
+- [[file:./Reto_1/][Reto 1]]
