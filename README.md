@@ -1,6 +1,6 @@
 # Descripción Reto 1 - JAVA.
 
-#Rascacielos.
+**Rascacielos.**
 
 Para poder presentar una licitación se ha propuesto una competencia entre las constructoras “ladrillo”, “cemento” y “bloque”.  Deben construir un rascacielos y el más alto será el ganador.  
 
