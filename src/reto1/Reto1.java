@@ -3,7 +3,7 @@ package reto1;
 import java.util.Scanner;
 
 public class Reto1 {
-
+    //Métodos o Funciones
     public static void rascacielos(int value) {
         int ladrillo =  value;
         int cemento = ladrillo * 2;
@@ -29,7 +29,7 @@ public class Reto1 {
         System.out.println(fase);
         
     }
-
+    //Main
     public static void main(String[] args) {
         Scanner consola = new Scanner(System.in);
         int pisos = consola.nextInt();
