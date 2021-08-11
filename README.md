@@ -1,4 +1,4 @@
-# Descripción Reto 1 - JAVA.
+# Descripción Reto 1 - JAVA
 
 **Rascacielos.**
 
