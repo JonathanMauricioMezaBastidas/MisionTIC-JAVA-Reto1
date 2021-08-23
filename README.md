@@ -14,7 +14,7 @@ Para determinar el costo generado en la construcción y mantenimiento de un rasc
 
 - En el grupo tres se encuentran los rascacielos que tenga entre 31 y 50 pisos, inclusive, y en el grupo cuatro si tienen más de 50 pisos. 
 
-Dados el número de pisos del rascacielos de la constructora “ladrillo”, realizar un programa que imprima el número de pisos de los rascacielos de las constructoras y en otra línea indique a que grupo pertenece el rascacielos de la constructora “bloque”.
+Dado el número de pisos del rascacielos de la constructora “ladrillo”, realizar un programa que imprima el número de pisos de los rascacielos de las constructoras y en otra línea indique a que grupo pertenece el rascacielos de la constructora “bloque”.
 
 **Entrada:**
 
